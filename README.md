@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Cl1ient 👋</h1>
 <h3 align="center">2nd-year Computer Science student (BUT Informatique) in France</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cl1ient&theme=onedark" alt="cl1ient trophies"/>
-  </a>
-</p>
+
 
 ---
 
@@ -18,7 +14,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
- alexishellich@gmail.com
+   alexishellich@gmail.com
 </p>
 
 ---
