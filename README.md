@@ -13,11 +13,15 @@
 ---
 
 ### 🤝 Connect with me
-<p align="left">
-   gmail   : alexishellich@gmail.com
-   discord : carpiste
-</p>
 
+<p align="left">
+  <a href="mailto:alexishellich@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/carpiste" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 🛠️ Languages and Tools
