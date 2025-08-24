@@ -14,7 +14,8 @@
 
 ### 🤝 Connect with me
 <p align="left">
-   alexishellich@gmail.com
+   gmail   : alexishellich@gmail.com
+   discord : carpiste
 </p>
 
 ---
@@ -37,7 +38,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cl1ient&show_icons=true&theme=tokyonight&locale=en" alt="cl1ient stats"/>
-</p>
+
