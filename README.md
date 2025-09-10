@@ -8,7 +8,8 @@
 ### 🚀 About Me
 - 🎓 I’m currently a **2nd-year Computer Science student (BUT Informatique) in France**  
 - 🌱 I’m currently learning **PHP and C**  
-- 💡 Interested in **software development and databases**  
+- 💡 Interested in **software development and databases**
+- 💻 Developper for **Plutonium**  
 
 ---
 
