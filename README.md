@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Cl1ient Alexis</h1> <h3 align="center">💻 2nd-year Computer Science student (BUT Informatique) in France</h3>
+<h1 align="center">👋 Hi, I'm Alexis</h1> <h3 align="center">💻 2nd-year Computer Science student (BUT Informatique) in France</h3>
 
 ---
 
