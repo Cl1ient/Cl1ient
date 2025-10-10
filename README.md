@@ -45,6 +45,11 @@
 
 ---
 
+### Mes projects en cours
+
+- AuditRoyale : Jeu pédagogique en cours de développement simulant le métier d’auditeur, réalisé dans le cadre de mon troisième semestre.
+- Bedrock Anti-Cheat : Un anti-cheat pour Minecraft Bedrock, intégrant des vérifications sur les mouvements et les coups des joueurs afin de détecter toute tentative de triche
+
 ### 🤝 Me contacter
 <p align="left">
   <a href="mailto:alexishellich@gmail.com">
