@@ -24,6 +24,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
+  <a href="https://www.java.net" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="JAVA" width="40" height="40"/>
+  </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   </a>
@@ -34,6 +37,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
   </a>
 </p>
+
+
 
 ---
 
