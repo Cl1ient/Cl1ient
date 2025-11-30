@@ -6,10 +6,10 @@
 ### 🚀 À propos de moi :
 
 - 🎓 Actuellement étudiant en 2ème année d'informatique (BUT Informatique) en France
-- 💡 Intéressé par le **développement logiciel et les bases de données**
+- 💡  Intéressé par le **développement logiciel et les bases de données**
 - 🌱 J'apprends actuellement le **PHP** et le **C**
 - 🔧 Développeur pour **Plutonium**, travaillant sur des **plugins** et des **JSON UI**
-- 🧠 Toujours curieux d'apprendre de nouvelles technologies et d'améliorer mes pratiques de codage
+- 🧠 Toujours curieux d'apprendre de nouveux langages et d'améliorer mes compétences
 
 ---
 
@@ -40,15 +40,17 @@
 ### 💼 Ce que je recherche :
 
 - 🧩 Contribuer à des projets PocketMine
-- ⚙️ Renforcer mes compétences en **PHP**
-- 🚀 Découvrir le travail et les outils de collaboration en équipe
+- ⚙️ Renforcer mes compétences en **PHP (backend)** 
+- 🚀 Trouver de nouveaux projets qui me permettraient d'apprendre de nouvelles choses
 
 ---
 
 ### Mes projects en cours
 
 - AuditRoyale : Jeu pédagogique en cours de développement simulant le métier d’auditeur, réalisé dans le cadre de mon troisième semestre.
+- Bataille Navale : Projet académique de Bataille Navale (Java/Swing) implémentant une architecture MVC stricte et des mécanismes de jeu avancés (armes, pièges, mode Île).
 - Bedrock Anti-Cheat : Un anti-cheat pour Minecraft Bedrock, intégrant des vérifications sur les mouvements et les coups des joueurs afin de détecter toute tentative de triche
+  
 
 ### 🤝 Me contacter
 <p align="left">
