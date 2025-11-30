@@ -8,7 +8,7 @@
 - 🎓 Actuellement étudiant en 2ème année d'informatique (BUT Informatique) en France
 - 💡  Intéressé par le **développement logiciel et les bases de données**
 - 🌱 J'apprends actuellement le **PHP** et le **C**
-- 🔧 Développeur pour **Plutonium**, travaillant sur des **plugins** et des **JSON UI**
+- 🔧 Développeur pour **Plutonium**, travaillant sur des **plugins PocketMine** et des **JSON UI**
 - 🧠 Toujours curieux d'apprendre de nouveux langages et d'améliorer mes compétences
 
 ---
