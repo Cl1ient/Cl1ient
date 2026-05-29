@@ -7,7 +7,6 @@
 
 - 🎓 Actuellement étudiant en 2ème année d'informatique (BUT Informatique) en France
 - 💡  Intéressé par le **développement logiciel et les bases de données**
-- 🌱 J'apprends actuellement le **PHP** et le **C**
 - 🔧 Développeur pour **Plutonium**, travaillant sur des **plugins PocketMine** et des **JSON UI**
 - 🧠 Toujours curieux d'apprendre de nouveux langages et d'améliorer mes compétences
 
@@ -44,9 +43,9 @@
 
 ### 💼 Ce que je recherche :
 
-- 🧩 Contribuer à des projets PocketMine
-- ⚙️ Renforcer mes compétences en **PHP (backend)** 
-- 🚀 Trouver de nouveaux projets qui me permettraient d'apprendre de nouvelles choses
+- 🧩 Apprendre :)
+- 🏗️ Développer ma réflexion sur l’architecture d’applications et les bonnes pratiques backend
+- ⚙️ Approfondir mes compétences en PHP backend, avec un intérêt pour la performance, la maintenabilité et la qualité du code
 
 ---
 
