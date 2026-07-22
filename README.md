@@ -6,8 +6,8 @@
 ### 🚀 À propos de moi :
 
 - 🎓 Actuellement étudiant en 2ème année d'informatique (BUT Informatique) en France
-- 💡  Intéressé par le **développement logiciel et les bases de données**
-- 🔧 Développeur pour **Plutonium**, travaillant sur **l'infrastructure** et sur le maintien de **PocketMine**
+- 💡 Passionné par le développement backend, la gestion d'infrastructures complexes et les technologies réseau
+- 🔧 Développeur pour **Plutonium**, travaillant sur **l'infrastructure** et sur le maintien des différents outils utilisés
 - 🧠 Toujours curieux d'apprendre de nouveux langages et d'améliorer mes compétences
 
 ---
@@ -45,7 +45,7 @@
 
 - 🧩 Apprendre :)
 - 🏗️ Développer ma réflexion sur l’architecture d’applications et les bonnes pratiques backend
-- ⚙️ Approfondir mes compétences en GO, avec un intérêt pour la performance, la maintenabilité et la qualité du code
+- ⚙️ Approfondir mes compétences en GO et PHP, avec un intérêt pour la performance, la maintenabilité et la qualité du code
 
 ---
 
