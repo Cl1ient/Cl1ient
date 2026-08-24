@@ -1,11 +1,11 @@
 <h1 align="center">👋 Salut, je suis Alexis</h1>
-<h3 align="center">💻 Étudiant en 2ème année d'informatique (BUT Informatique) en France</h3>
+<h3 align="center">💻 Étudiant en 3ème année d'informatique (BUT Informatique) en France</h3>
 
 ---
 
 ### 🚀 À propos de moi :
 
-- 🎓 Actuellement étudiant en 2ème année d'informatique (BUT Informatique) en France
+- 🎓 Actuellement étudiant en 3ème année d'informatique (BUT Informatique) en France
 - 💡 Passionné par le développement backend, la gestion d'infrastructures complexes et les technologies réseau
 - 🔧 Développeur pour **Plutonium**, travaillant sur **l'infrastructure** et sur le maintien des différents outils utilisés
 - 🧠 Toujours curieux d'apprendre de nouveux langages et d'améliorer mes compétences
